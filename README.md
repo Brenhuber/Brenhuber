@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Bren Huber 👋</h1>
+<p align="center">
+  Aspiring Data Scientist | Python Enthusiast | Machine Learning Explorer
+</p>
 
-<!--
-**Brenhuber/Brenhuber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Undergraduate CS @ ASU | Minor in Data Science | Ira A. Fulton Schools of Engineering  
+- 🧠 Passionate about data-driven solutions, modeling, and visualization  
+- 🛠️ Skilled in **Python**, **pandas**, **NumPy**, **scikit-learn**, **Matplotlib**, **Seaborn**, and **SQL**
+- 🤖 Exploring **recommendation systems**, **reinforcement learning**, and **advanced data analysis**
+
+---
+
+### 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 📬 brenhuberbusiness@gmail.com 
+
+---
+
+### ⚡ Fun Fact
+I love combining statistics and storytelling to extract insights from raw data — and I’m always learning something new!
+
