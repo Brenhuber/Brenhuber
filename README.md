@@ -19,8 +19,3 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 - 📬 brenhuberbusiness@gmail.com 
 
----
-
-### ⚡ Fun Fact
-I love combining statistics and storytelling to extract insights from raw data — and I’m always learning something new!
-
