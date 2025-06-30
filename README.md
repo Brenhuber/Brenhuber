@@ -17,5 +17,5 @@
 ### 📫 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/brenhuber)  
-- 📬 [Email](brenhuberbusiness@gmail.com) 
+- 📬 [Email](mailto:brenhuberbusiness@gmail.com)
 
