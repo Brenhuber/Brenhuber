@@ -16,6 +16,6 @@
 
 ### 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📬 brenhuberbusiness@gmail.com 
+- 💼 [LinkedIn](https://www.linkedin.com/in/brenhuber)  
+- 📬 [Email](brenhuberbusiness@gmail.com) 
 
