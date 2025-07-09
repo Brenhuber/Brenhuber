@@ -9,7 +9,7 @@
 
 - 🎓 Undergraduate CS @ ASU | Minor in Data Science | Ira A. Fulton Schools of Engineering  
 - 🧠 Passionate about data-driven solutions, modeling, and visualization  
-- 🛠️ Skilled in **Python**, **pandas**, **NumPy**, **scikit-learn**, **Matplotlib**, **Seaborn**, and **SQL**
+- 🛠️ Skilled in **Python**, **pandas**, **NumPy**, **scikit-learn**, **Matplotlib**, **Plotly**, and **SQL**
 - 🤖 Exploring **deep learning**
 
 ---
