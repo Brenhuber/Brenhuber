@@ -1,16 +1,16 @@
 <h1 align="center">Bren Huber</h1>
 <p align="center">
-  Big Data | Python Enthusiast | Creating Reliable Pipelines & Workflows
+  Data Engineer | CS Student
 </p>
 
 ---
 
 ### About Me
 
-- Undergraduate CS @ ASU | Ira A. Fulton Schools of Engineering  
-- Passionate about data-driven solutions, modeling, and visualization  
-- Skilled in **Python**, **Pandas**, **PySpark**, **Scikit-Learn**, **Matplotlib**, **SQL**, **Airflow**
-- Currently Exploring **Azure Databricks**
+- I enjoy designing systems and building pipelines
+- Currently am diving deeper into data streaming (Kafka, Flink)
+- Previous Data Engineer Intern @ NeuroVision AI
+- Setup is a MacBook Pro | M4 Pro | 1 TB SSD | 24 GB RAM
 
 ---
 
