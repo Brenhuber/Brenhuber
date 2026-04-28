@@ -9,7 +9,7 @@
 
 - I enjoy designing systems and building pipelines
 - Currently am diving deeper into data streaming (Kafka, Flink)
-- Previous Data Engineer Intern @ NeuroVision AI
+- Incoming Data Engineer Intern @ GM
 - Setup is a MacBook Pro | M4 Pro | 1 TB SSD | 24 GB RAM
 
 ---
