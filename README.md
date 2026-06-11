@@ -8,9 +8,8 @@
 ### About Me
 
 - I enjoy designing systems and building pipelines
-- Currently am diving deeper into data streaming (Kafka, Flink)
-- Incoming Data Engineer Intern @ GM
-- Setup is a MacBook Pro | M4 Pro | 1 TB SSD | 24 GB RAM
+- Data Engineer Intern @ GM
+- Microsoft hater (Apple glazer)
 
 ---
 
