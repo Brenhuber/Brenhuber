@@ -1,6 +1,6 @@
 <h1 align="center">Bren Huber</h1>
 <p align="center">
-  AI, Data, and creative | CS Student
+  AI and creative
 </p>
 
 ---
